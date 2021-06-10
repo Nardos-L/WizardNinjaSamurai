@@ -1,0 +1,16 @@
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\bin\Debug\net5.0\WizardNinjaSamurai.exe
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\bin\Debug\net5.0\WizardNinjaSamurai.deps.json
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\bin\Debug\net5.0\WizardNinjaSamurai.runtimeconfig.json
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\bin\Debug\net5.0\WizardNinjaSamurai.runtimeconfig.dev.json
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\bin\Debug\net5.0\WizardNinjaSamurai.dll
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\bin\Debug\net5.0\ref\WizardNinjaSamurai.dll
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\bin\Debug\net5.0\WizardNinjaSamurai.pdb
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\WizardNinjaSamurai.csprojAssemblyReference.cache
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\WizardNinjaSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\WizardNinjaSamurai.AssemblyInfoInputs.cache
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\WizardNinjaSamurai.AssemblyInfo.cs
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\WizardNinjaSamurai.csproj.CoreCompileInputs.cache
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\WizardNinjaSamurai.dll
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\ref\WizardNinjaSamurai.dll
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\WizardNinjaSamurai.pdb
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\OOP\WizardNinjaSamurai\obj\Debug\net5.0\WizardNinjaSamurai.genruntimeconfig.cache
